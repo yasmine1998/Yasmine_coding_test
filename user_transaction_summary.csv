@@ -1,0 +1,4 @@
+user_id,name,email,amount
+1,Alice,alice@example.com,70
+2,Bob,Bob@example.com,40
+3,Charlie,charlie@example.com,40
