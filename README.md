@@ -11,9 +11,9 @@ Steps to do to test the codes:
 
 * Create and activate the virtual environment:
 
-`python3 -m coding_env`
+`python3 -m venv env`
 
-`source coding_env/bin/activate`
+`source env/bin/activate`
 
 * Install the libraries:
 
@@ -21,8 +21,8 @@ Steps to do to test the codes:
 
 * Run the code:
 
-`python3 coding_test.py`
+`python3 src/coding.py`
 
 * Run the unit tests:
 
-`python3 unit_tests.py`
+`python3 -m unittest discover tests`
