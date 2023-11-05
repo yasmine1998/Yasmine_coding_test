@@ -21,7 +21,7 @@ Steps to do to test the codes:
 
 * Run the code:
 
-`python3 src/coding.py`
+`python3 src/code_file_name.py`
 
 * Run the unit tests:
 

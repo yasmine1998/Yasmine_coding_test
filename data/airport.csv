@@ -1,0 +1,51 @@
+stationcode,name,shortname,timezonecode,latitude,longitude,currencycode,zonecode,countrycode,createdutc
+LLA,Kallax Airport,Kallax Airport,SE,653241N,0220740E,SEK,21,SE,18:31.5
+PVS,Provideniya Airport,Provideniya Airport,RU11,642300N,1731800E,RUR,36,RU,19:14.2
+LLA,Kallax Airport,Kallax Airport,SE,653241N,0220740E,SEK,21,SE,18:31.5
+MCG,Mc Grath Airport,Mc Grath Airport,US5,625733N,1553610W,USD,0,US,18:38.4
+TLL,Tallinn,Tallinn,EE,592448N,0244957E,EUR,21,EE,54:17.7
+TLL,Tallinn,Tallinn,EE,592448N,0244957E,EUR,21,EE,54:17.7
+VBY,Visby Airport,Visby Airport,SE,573947N,0182058E,SEK,21,SE,19:55.2
+AAL,Aalborg,Aalborg,DK,570535N,0095100E,DKK,21,DK,16:33.9
+MMX,Malmo,Malmo,SE,553140N,0132207E,SEK,21,SE,27:37.2
+BFS,Belfast International,Belfast International,GB,543912N,0061329W,GBP,21,GB,17:06.8
+BLK,Blackpool,Blackpool,GB,534619N,0030210W,GBP,21,GB,03:11.2
+MAN,Manchester,Manchester,GB,532112N,0021636W,GBP,21,GB,09:36.7
+IEG,Babimost Airport,Babimost Airport,PL,515600N,0153100E,PLN,21,PL,18:07.2
+LCJ,Lodz,Lodz,PL,514319N,0192354E,PLN,21,PL,02:41.6
+PAD,Paderborn,Paderborn,DE,513654N,0083716E,EUR,21,DE,19:03.9
+OST,Ostend ,Ostend,BE,511159N,0025149E,EUR,21,BE,08:58.5
+DRS,Dresden,Dresden,DE,510800N,0134600E,EUR,21,DE,17:39.3
+YBH,Bull Harbour Airport,Bull Harbour Airport,CA6,505400N,1275500W,CAD,0,CA,20:14.9
+YQN,Nakina Airport,Nakina Airport,CA3,501301N,0864212W,CAD,0,CA,20:21.0
+BTS,Bratislava,Bratislava,SK,481000N,0171300E,EUR,21,SK,38:22.3
+FDH,Friedrichshafen,Friedrichshafen,DE,474002N,0093045E,EUR,21,DE,16:04.2
+BSL,Basel,Basel,CH,473524N,0073148E,CHF,21,CH,27:32.6
+BGY,Milan Bergamo,Milan Bergamo,IT,454008N,0094201E,EUR,21,IT,55:51.5
+YSC,Sherbrooke Airport,Sherbrooke Airport,CA3,452500N,0715400W,CAD,0,CA,20:22.1
+PSA,Pisa,Pisa,IT,434058N,0102344E,EUR,21,IT,59:03.0
+BIQ,Biarritz,Biarritz,FR,432811N,0013122W,EUR,21,FR,32:37.8
+INI,Nis,Nis,RS,432002N,0215106E,EUR,21,RS,18:09.4
+SCQ,Santiago Di Comp,Santiago Di Comp,ES1,425347N,0082455W,EUR,21,ES,09:19.7
+VLL,Valladolid,Valladolid,ES1,414222N,0045107W,EUR,21,ES,42:22.6
+FSC,Figari,Figari,FR,413000N,0090600E,EUR,21,FR,16:54.1
+KRW,Turkmanbashi Airport,Turkmanbashi Airport,TM,400259N,0530000E,TMM,32,TM,18:23.3
+TPS,Trapani,Trapani,IT,375443N,0122936E,EUR,21,IT,10:55.1
+PDL,Ponta Delgada,Ponta Delgada,PT2,374450N,0254055W,EUR,21,PT,19:06.2
+RHO,Rhodes,Rhodes,GR,362420N,0280510E,EUR,21,GR,47:24.8
+CHQ,Crete (Chania),Crete Chania,GR,353154N,0240859E,EUR,21,GR,49:50.8
+AGO,Magnolia Municipal Airport,Magnolia Municipal Airport,US2,331600N,0931400W,USD,0,US,16:34.6
+BQK,Glynco Jetport,Glynco Jetport,US1,311517N,0812800W,USD,0,US,17:15.9
+SOK,Semongkong Airport,Semongkong Airport,LS,295000S,0283000E,XXX,23,LS,19:32.8
+CLC,Metroport Airport,Metroport Airport,US2,293325N,0950815W,USD,0,US,17:27.4
+SPC,La Palma,La Palma,ES2,283735N,0174520W,EUR,21,ES,19:32.9
+UDR,Dabok Airport,Dabok Airport,IN,243654N,0735346E,INR,33,IN,19:51.6
+SNJ,San Julian Airport,San Julian Airport,CU,220500N,0840900W,CUP,14,CU,19:32.6
+BBR,Baillif Airport,Baillif Airport,GP,160059N,0614422W,EUR,14,GP,17:03.4
+AHE,Ahe Airport,Ahe Airport,PF2,142541S,1461525W,XPF,34,PF,16:34.6
+HUU,Huanuco Airport,Huanuco Airport,PE,095200S,0761300W,PEN,17,PE,18:05.7
+JIM,Jimma Airport,Jimma Airport,ET,073916N,0364916E,ETB,23,ET,18:13.0
+AIH,Aiambak Airport,Aiambak Airport,PG1,072055S,1411559E,PGK,34,PG,16:38.0
+KSB,Kasanombe Airport,Kasanombe Airport,PG1,062300S,1470100E,PGK,34,PG,18:23.3
+TYL,Talara Airport,Talara Airport,PE,043353S,0811510W,PEN,17,PE,19:50.3
+NDE,Mandera Airport,Mandera Airport,KE,035600N,0415200E,KES,23,KE,18:52.4

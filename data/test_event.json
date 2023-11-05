@@ -1,0 +1,85 @@
+{
+
+    "version": "0",
+
+    "id": "2552f4bd-dc74-7ecc-798d-3006a8711a62",
+
+    "source": "example",
+
+    "account": "487943794540",
+
+    "time": "2022-10-10T13:51:17Z",
+
+    "resources": [],
+
+    "detail": {
+
+        "Events": [{
+
+            "CustomerId": "KKKKKKKKKKK",
+
+            "Booking": {
+
+                "Info": {
+
+                    "BookingId": 11111111,
+
+                    "CreatedUtcDate": "2022-10-17T14:02:57.447Z",
+
+                    "ModifiedUtcDate": "2022-10-17T14:02:58.78Z"
+
+                },
+
+                "Journeys": [
+
+                    {
+
+                        "JourneyNum": 0,
+
+                        "Fats": [],
+
+                        "Segments": [
+
+                            {
+
+                                "SegmentNum": 0,
+
+                                "Plane": "1234",
+
+                                "AirportOrig": "LLA",
+
+                                "AirportDest": "VBY",
+
+                                "DepartureUTC": "2022-11-03T08:00:00Z",
+
+                                "ArrivalUTC": "2022-11-03T09:20:00Z"
+
+                            }, {
+
+                                "SegmentNum": 1,
+
+                                "Plane": "1235",
+
+                                "AirportOrig": "STN",
+
+                                "AirportDest": "MAD",
+
+                                "DepartureUTC": "2022-11-04T08:00:00Z",
+
+                                "ArrivalUTC": "2022-11-04T09:20:00Z"
+
+                            }
+
+                        ]
+
+                    }
+
+                ]
+
+            }
+
+        }]
+
+    }
+
+}
